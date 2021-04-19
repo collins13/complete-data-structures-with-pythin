@@ -1,0 +1,107 @@
+{
+    "sellerDetails": {
+        "tin": "1000359229",
+        "ninBrn": "\/120957",
+        "legalName": "BRITAM INSURANCE COMPANY  (UGANDA) LTD",
+        "businessName": "BRITAM INSURANCE COMPANY  (UGANDA) LTD",
+        "address": "Plot 24A Akii-Bua Rd NakaseroP O Box 36583, Kampala,Uganda",
+        "mobilePhone": "+256 312 305 600",
+        "linePhone": "+256 312 305 600",
+        "emailAddress": "britamug@britam.com",
+        "placeOfBusiness": "",
+        "referenceNo": "9000631000031202104"
+    },
+    "basicInformation": {
+        "invoiceNo": "",
+        "antifakeCode": "",
+        "deviceNo": "TCSeca53a3551903003",
+        "issuedDate": "2021-04-08 00:00:00",
+        "operator": "rkatusiime",
+        "currency": "EURO",
+        "oriInvoiceId": "",
+        "invoiceType": "1",
+        "invoiceKind": "1",
+        "dataSource": "106",
+        "invoiceIndustryCode": "106",
+        "isBatch": "0"
+    },
+    "buyerDetails": {
+        "buyerTin": "1000030209",
+        "buyerNinBrn": "",
+        "buyerPassportNum": "",
+        "buyerLegalName": "HUMAN DIAGNOSTICS  (UGAN",
+        "buyerBusinessName": "HUMAN DIAGNOSTICS  (UGAN",
+        "buyerAddress": "0414680123",
+        "buyerEmail": "info@human.ug",
+        "buyerMobilePhone": "0414680123",
+        "buyerLinePhone": "0414680123",
+        "buyerPlaceOfBusi": "",
+        "buyerType": "0",
+        "buyerCitizenship": "",
+        "buyerSector": "",
+        "buyerReferenceNo": ""
+    },
+    "goodsDetails": [{
+        "item": "MARINE OPEN COVER",
+        "itemCode": "063",
+        "qty": "1",
+        "unitOfMeasure": "108",
+        "unitPrice": "326.07",
+        "total": "326.07",
+        "taxRate": "0.18",
+        "tax": "49.74",
+        "discountTotal": "",
+        "discountTaxRate": "",
+        "orderNumber": "0",
+        "discountFlag": "2",
+        "deemedFlag": "2",
+        "exciseFlag": "2",
+        "categoryId": "84131504",
+        "categoryName": "Cargo insurance",
+        "goodsCategoryId": "84131504",
+        "goodsCategoryName": "Cargo insurance",
+        "exciseRate": "",
+        "exciseRule": "",
+        "exciseTax": "",
+        "pack": "",
+        "stick": "",
+        "exciseUnit": "",
+        "exciseCurrency": "",
+        "exciseRateName": ""
+    }],
+    "taxDetails": [{
+        "taxCategory": "Standard",
+        "netAmount": "276.33",
+        "taxRate": "0.18",
+        "taxAmount": "49.74",
+        "grossAmount": "326.07",
+        "exciseUnit": "",
+        "exciseCurrency": "EURO",
+        "taxRateName": "18%"
+    }, {
+        "taxCategory": "Stamp Duty",
+        "netAmount": "0",
+        "taxRate": "1",
+        "taxAmount": "7.95",
+        "grossAmount": "7.95",
+        "taxRateName": "Stamp Duty"
+    }],
+    "summary": {
+        "netAmount": "276.33",
+        "taxAmount": "57.69",
+        "grossAmount": "334.02",
+        "itemCount": "1",
+        "modeCode": "0",
+        "remarks": "",
+        "qrCode": ""
+    },
+    "payWay": [{
+        "paymentMode": "102",
+        "paymentAmount": "334.02",
+        "orderNumber": "0"
+    }],
+    "extend": {
+        "reason": "",
+        "reasonCode": ""
+    }
+}
